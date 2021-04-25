@@ -1,0 +1,11 @@
+insert into users (student_id, full_name, gender, major, faculty, batch)
+values ('001201800047', 'Kenny Susanto', 1, 'Information Technology', 'COMP', '2018');
+
+insert into users (student_id, full_name, gender, major, faculty, batch)
+values ('001201800004', 'A Nadhilah Nur Shabrina', 0, 'Information Technology', 'COMP', '2018');
+
+insert into users (student_id, full_name, gender, major, faculty, batch)
+values ('001201800022', 'Gilang Martadinata', 1, 'Information Technology', 'COMP', '2018');
+
+insert into users (student_id, full_name, gender, major, faculty, batch)
+values ('001201800059', 'Calvin J. Kumambong', 1, 'Information Technology', 'COMP', '2018');
